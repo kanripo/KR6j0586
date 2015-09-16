@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說華積陀羅尼神經
+#+DATE: 2015-08-30 20:35:44.010554
+#+PROPERTY: JUAN 0
